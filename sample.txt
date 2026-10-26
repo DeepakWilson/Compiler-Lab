@@ -1,0 +1,5 @@
++ a b t1
+* t1 c t2
+- t2 d t3
+/ t3 e t4
+= t4 - x
